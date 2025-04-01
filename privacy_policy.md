@@ -1,6 +1,6 @@
 # Privacy Policy for Tim's Speedreader Chrome Extension
 
-Last updated: [Current Date]
+Last updated: [1 April 2025]
 
 ## Overview
 Tim's Speedreader is a Chrome extension designed to enhance reading speed by highlighting words sequentially on webpages. This privacy policy explains what information our extension collects and how we use it.
@@ -37,7 +37,7 @@ The extension collects and uses the following types of data:
 We may update this Privacy Policy from time to time. We will notify users of any changes by updating the "Last updated" date at the top of this policy.
 
 ## Contact
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact us at [tlyurdum@gmail.com].
 
 ## Your Rights
 You can:
